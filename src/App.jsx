@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./styles.css";
-import { NewTodoForm } from "./NewTodoForm";
+import NewTodoForm from "./NewTodoForm";
 import { ToDoList } from "./ToDoList";
 
 function App() {
